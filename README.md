@@ -1,2 +1,4 @@
-# Multistage_Graph-Dynamic_Programming
-Python 动态规划(Dynamic Programming) 多段图最短路径问题 Multistage Graph
+# Multistage Graph (Shortest Path), Dynamic Programming
+Python 用类创建节点的方式实现多段图的动态规划思想
+
+
